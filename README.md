@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: A.BHAGATHKRISHNA
+### Register Number:212223230029
+
+![image](https://github.com/divya280/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/82276099/e6412977-495d-4746-ab77-37e8fdfa0c7e)
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
